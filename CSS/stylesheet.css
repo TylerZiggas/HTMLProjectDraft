@@ -65,12 +65,13 @@ body {
 }
 
 #bottom {
+    z-index: 1;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin: auto;
     columns: 3 250px;
     background-color: black;
     color: cornsilk;
-    padding: 15px;
+    padding: 20px;
     width: 100%;
 }
 
